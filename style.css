@@ -1,0 +1,33 @@
+html{
+  height:100%;
+}body{
+  background:linear-gradient(to bottom right ,white,grey);
+  
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+#btn1{
+ margin-top:30px;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+#data{
+  margin-top:50px;
+  background:linear-gradient(to right,gainsboro,crimson);
+  width:300px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:12px;
+  border-color:grey;
+  text-align:center;
+  font-family:'Roboto',cursive;
+  font-weight:bold;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+.hidden{
+  display:none;
+}
